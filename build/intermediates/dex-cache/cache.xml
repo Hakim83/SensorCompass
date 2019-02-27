@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\SensorCompass\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f5083ba19e6ce991d2881332f872c1b02c2f3ec">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\SensorCompass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_edc8655a6a45d93cae4c2ce128a9a4497250f6f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\SensorCompass\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d33c728a208a72300cd4936cd65ddbc23fdc7a13">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\SensorCompass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a19e6cc918d2b539c47861eb4e9803c0df8c6f8\classes.dex" />
+    </item>
+
+</items>
